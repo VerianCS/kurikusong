@@ -24,10 +24,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
 /src-tauri/target/debug*
-=======
->>>>>>> 71b2bcb5dbe10d0bf095552eb741b01db2279376
 
 # local env files
 .env*.local
